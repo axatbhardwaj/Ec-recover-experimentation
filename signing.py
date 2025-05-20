@@ -7,7 +7,7 @@ import sys  # Import sys module to access command-line arguments
 # Dummy private key for testing
 # You would replace this with a real private key in a production environment.
 # IMPORTANT: Never expose your real private keys.
-DUMMY_PRIVATE_KEY = 
+DUMMY_PRIVATE_KEY = "0xa86207a23af8c07724ff684c309c798c672064c114037777803dd9708a40240f"
 # The public address corresponding to the DUMMY_PRIVATE_KEY
 # EXPECTED_ADDRESS = "0xA72187c81E3bfe04353bFD4b691b04dda93F1435" # No longer needed for this version
 
